@@ -5,10 +5,12 @@ pleasing way.
 
 ## Casing
 The following words are written in camel case unless there is a reason to divert from this rule:
-*QuantumMaid*, *HttpMaid*, *EventMaid*, *MapMaid*, *ReflectMaid*, *DocuMaid*, etc.
+*QuantumMaid*, *HttpMaid*, *EventMaid*, *MapMaid*, *ReflectMaid*, *DocuMaid*, *GitHub* etc.
 
 Names are to be capitalized: *Java*, *Kotlin*, *Maven*, *Slack*, *Gitter*, *Twitter*, *(AWS) Lambda*, 
 *Spring*, etc.
+
+The word *usecase* is written as such.
 
 ## Code
 Code identifiers in normal text are written as `inline code`. This especially applies to `String`, `Object`, `List`
