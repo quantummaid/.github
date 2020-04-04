@@ -1,7 +1,10 @@
 # QuantumMaid Style Guide for Documentation and Tutorials
 The following guide aims to give authors of QuantumMaid documentation and tutorials
 an orientation point on how to write their documents in a consistent and aesthetically
-pleasing way. 
+pleasing way.
+
+## General rules
+Documentation and tutorials in QuantumMaid projects follow the [Mircosoft Writing Style Guide](https://docs.microsoft.com/en-gb/style-guide/welcome/).
 
 ## Casing
 The following words are written in camel case unless there is a reason to divert from this rule:
@@ -11,6 +14,9 @@ Names are to be capitalized: *Java*, *Kotlin*, *Maven*, *Slack*, *Gitter*, *Twit
 *Spring*, etc.
 
 The word *usecase* is written as such.
+
+## File names
+File names are written as `inline code`: `pom.xml`, `MyType.class`, `README.md`, etc.
 
 ## Code
 Code identifiers in normal text are written as `inline code`. This especially applies to `String`, `Object`, `List`
