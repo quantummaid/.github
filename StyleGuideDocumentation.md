@@ -35,7 +35,7 @@ the context of the code example (it has been used before, the code example conta
 it has been indicated in the preceding text, etc.).
 
 ## Acronyms
-The following acronyms are always written as such: *HTTP*, *Json*, *XML*, *YAML*, *DDD*, *JVM*, *JDK*, *JWT*,
+The following acronyms are always written as such: *HTTP*, *JSON*, *XML*, *YAML*, *DDD*, *JVM*, *JDK*, *JWT*,
 *AWS*.
 
 
