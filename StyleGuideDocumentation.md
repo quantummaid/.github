@@ -4,7 +4,7 @@ an orientation point on how to write their documents in a consistent and aesthet
 pleasing way.
 
 ## General rules
-Documentation and tutorials in QuantumMaid projects follow the [Mircosoft Writing Style Guide](https://docs.microsoft.com/en-gb/style-guide/welcome/).
+Documentation and tutorials in QuantumMaid projects follow the [Microsoft Writing Style Guide](https://docs.microsoft.com/en-gb/style-guide/welcome/).
 
 ## Casing
 The following words are written in camel case unless there is a reason to divert from this rule:
