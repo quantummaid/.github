@@ -35,6 +35,15 @@ QuantumMaid's coding conventions are based on the popular book [Robert C. Martin
 The conventions are enforced by our [Maven configuration](https://github.com/quantummaid/quantummaid-opensource-parent).
 Start reading our code and you'll get the hang of it.
 
+## Copyright
+All contribution must be signed off using the [Developer Certificate of Origin](https://developercertificate.org/).
+
+Submitting a contribution implies this agreement. Nonetheless a "Signed-off-by" tag in every patch is required as confirmation that you agree. The following git command can be used:
+
+    git commit --signoff
+        
+All contributions must be released under the same license as the project the contribution is made to.
+
 ## Building the projects from source
 All QuantumMaid projects use Maven to build. You can build a project from source like this:
 ```bash
